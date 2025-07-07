@@ -17,6 +17,7 @@ This is a front-end clone of the PeoplePerHour freelance marketplace. The projec
 ## Purpose
 This project is created for educational and portfolio purposes to demonstrate front-end development skills by replicating a real-world freelance platform.
 
-## Live Demo
-Coming soon... 
+## Demo
 
+
+![Screenshot_7-7-2025_152443_127 0 0 1](https://github.com/user-attachments/assets/fd93e5ab-0574-43ea-a233-ca594b854888)
